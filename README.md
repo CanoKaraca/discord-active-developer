@@ -13,7 +13,7 @@ Eğer sizde rozeti istiyorsanız, aşağıdaki talimatları uygulayın!
 
 
 
-# Instructions
+# Talimatlar
 
 - https://discord.com/developers/applications sayfasına gidin,ve rozeti almak istediğiniz hesapta yeni bir uygulama oluşturun
 - Bot sekmesine gidin ve uygulama için bir bot hesabı oluşturun
