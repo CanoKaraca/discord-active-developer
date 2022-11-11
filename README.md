@@ -40,3 +40,6 @@ Eğer hata alıyorsanız, [Discord sunucumuza katılın](https://discord.gg/rabe
 
 # Repo'yu yıldızla!!!
 Rozeti burdan başarılı bir şekilde alabildiyseniz, bu repoyu daha fazla kişinin görebilmesi için yıldızlayın.
+
+# Credits
+This is the turkish version of [original repo](https://github.com/hackermondev/discord-active-developer)
