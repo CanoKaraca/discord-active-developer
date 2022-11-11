@@ -23,7 +23,7 @@ Eğer sizde rozeti istiyorsanız, aşağıdaki talimatları uygulayın!
   - Replit'e yönlendirileceksiniz, bir hesap oluşturmanız gerekebilir (Google ile kayıt olabilirsiniz)
 - Repo'nun klonlamayı bitirmesini ve Replit'in tamamen bağlanmasını bekleyin
 - Üstteki yeşil "Çalıştır" düğmesini tıklayın
-- Konsol'a gidin (Sağda büyük siyah düğme) ve daha önce kopyaladığınız belirteci yapıştırın (**Not**: ``CTRL + V`` çalışmaz, yapman gereken: ``CTRL + Shift + V`` veya sağ-tık ve yapıştıra tıklamak
+- Konsol'a gidin (Sağda büyük siyah düğme) ve daha önce kopyaladığınız tokeni yapıştırın (**Not**: ``CTRL + V`` çalışmaz, yapman gereken: ``CTRL + Shift + V`` veya sağ-tık ve yapıştıra tıklamak
 - 'Enter' Tuşuna tıklayın
 - Konsolda 'BİTTİ' yazdırmasını bekleyin, **PROGRAMI durdurmayın veya SEKMEYİ henüz kapatmayın**
 - Başvuru sayfasına geri dön, "General Information" sekmesine git, Aşağı in ve application id'yi kopyala
